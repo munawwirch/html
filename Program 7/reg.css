@@ -1,0 +1,40 @@
+h1{
+text-align:center;
+}
+body{
+background-color:red;
+border:2px solid blue;
+text-align:center;
+}
+.form {
+
+    padding: 30px 40px;
+    border-radius: 10px;
+    text-align: left;           /* keep labels aligned */
+}
+.hii {
+
+    padding: 30px 48px;
+    border-radius: 10px;
+    text-align: left;           /* keep labels aligned */
+}
+.add {
+
+    padding: 30px 32px;
+    border-radius: 10px;
+    text-align: left;           /* keep labels aligned */
+}
+.mob {
+
+    padding: 30px 3px;
+    border-radius: 10px;
+    text-align: left;           /* keep labels aligned */
+}
+.em {
+
+    padding: 30px 7px;
+    border-radius: 10px;
+    text-align: left;           /* keep labels aligned */
+}
+
+   
